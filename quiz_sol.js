@@ -4,3 +4,4 @@ function makeArr(n) {
 }
 console.log(makeArr(1234));
 console.log(makeArr(9876));
+//
